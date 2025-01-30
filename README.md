@@ -11,7 +11,7 @@
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=johnhenricsantos&theme=highcontrast" />
-    <img height="134" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnhenricsantos&theme=highcontrast&langs_count=8&card_width=450" />
+    <img height="136" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnhenricsantos&theme=highcontrast&langs_count=8&card_width=450" />
 </div>
 
 ### 💻 Technologies:
