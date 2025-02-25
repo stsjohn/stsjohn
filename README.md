@@ -12,7 +12,7 @@
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=stsjohn&theme=tokyonight" />
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stsjohn&layout=compact&theme=tokyonight&langs_count=8&card_width=450" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stsjohn&layout=compact&theme=tokyonight&langs_count=8&card_width=300" />
 </div>
 
 
