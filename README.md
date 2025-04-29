@@ -9,12 +9,10 @@
 
 ### 📊 Statistics:
 
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="135" align="center" src="https://github-readme-stats.vercel.app/api?username=stsjohn&show_icons=true&theme=radical&include_all_commits=true")/>
-    <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stsjohn&layout=compact&theme=radical&langs_count=8&card_width=340"/>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stsjohn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stsjohn&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-
 
 ### 💻 Technologies:
 
